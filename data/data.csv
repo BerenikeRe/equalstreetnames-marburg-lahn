@@ -1,0 +1,849 @@
+﻿type;id;name;gender
+;Q168542;Adalbert‑Stifter‑Weg;m
+;-;Adam‑Krafft‑Straße;m
+;Q350847;Adam‑Schmitt‑Weg;m
+;Q104819;Afföllerstraße;-
+;Q104819;Afföllerwiesen;-
+;Q42292;Ahornweg;-
+;;Akazienweg;-
+;Q49325;Albert‑Schweitzer‑Straße;m
+;Q57128;Albrecht-Kossel-Straße;m
+;Q76323;Alfred‑Wegener-Straße;m
+;;Allersbergweg;
+;;Allnatalstraße;
+;;Alte Hute;
+;;Alte Kasseler Straße;
+;;Alte Kirchhofsgasse;
+;;Alte Schulstraße;
+;;Alter Ebsdorfer Weg;
+;;Alter Kirchhainer Weg;
+;;Alter Weg;
+;;Altes Schloß;
+;;Am Alten Rasen;
+;;Am Bahndamm;
+;;Am Berg;
+;;Am Bettacker;
+;;Am Bienengarten;
+;;Am Born;
+;;Am Bornberg;
+;;Am Brückchen;
+;;Am Buchenwald;
+;;Am Dachsbau;
+;;Am Dammelsberg;
+;;Am Denkmal;
+;;Am Engelsberg;
+;Q25239;Am Erlengraben;-
+;;Am Forsthaus;
+;;Am Friedhof;
+;;Am Glaskopf;
+;;Am Grabenacker;
+;;Am Grassenberg;
+;-;Am Grün;-
+;;Am grünen Hang;
+;;Am Gutshof;
+;;Am Hang;
+;;Am Hasenküppel;
+;;Am Hasselhof;
+;;Am Hedgesberg;
+;;Am Herrenfeld;
+;;Am Jägerwäldchen;
+;;Am Kähnelplatz;
+;;Am Kaufmarkt;
+;;Am Kirchberg;
+;;Am Kirschenwald;
+;;Am Knechtacker;
+;;Am Köppel;
+;;Am Kornacker;
+;;Am Kornfeld;
+;;Am Krappen;
+;-;Am Krekel;-
+;;Am Kuhweg;
+;;Am Kupfergraben;
+;;Am Lorch;
+;;Am Mähracker;
+;;Am Marktpfad;
+;;Am Martsacker;
+;;Am Mühlgraben;
+;;Am Mühlhof;
+;;Am Mühlteich;
+;;Am Nußacker;
+;;Am Ortenbergsteg;
+;;Am Pfaffenwald;
+;-;Am Plan;-
+;;Am Pulverturm;
+;;Am Rabenstein;
+;;Am Rain;
+;;Am Richtsberg;
+;;Am Rödchen;
+;;Am Schlag;
+;;Am Schulgarten;
+;;Am Schulhof;
+;;Am Schützenplatz;
+;;Am Schwanhof;
+;;Am Schwarzen Born;
+;;Am Spielplatz;
+;;Am Steinmühlfeld;
+;;Am Strauch;
+;;Am Strauchacker;
+;;Am Teich;
+;;Am Trusch;
+;;Am Vogelherd;
+;;Am Waldacker;
+;;Am Wäldchen;
+;;Am Waldrand;
+;;Am Wall;
+;Q282;Am Weinberg;-
+;;Am Weißenstein;
+;;Am Welzebach;
+;;Am Wichtel;
+;;Am Wittelsberg;
+;;Am Ziegenberg;
+;;Am Zuckerberg;
+;Q373902;Amöneburger Straße;-
+;;Amselstraße;
+;;An den Brunnenröhren;
+;;An den drei Morgen;
+;;An den Gärten;
+;;An den Plänchen;
+;;An den Siechengärten;
+;;An den Steinäckern;
+;;An den Steinbrüchen;
+;;An den Weiden;
+;;An der Berghecke;
+;;An der Dreispitze;
+;;An der Haustatt;
+;;An der Kirche;
+;;An der Linde;
+;;An der Martinskirche;
+;;An der Schäferbuche;
+;;An der Schanze;
+;;An der Schülerhecke;
+;;An der Zahlbach;
+;;Andrestraße;
+;;Annablickweg;
+;Q4583;Anne-Frank-Straße;w
+;-;Anneliese Pohl Allee;w
+;;Arzbachweg;
+;;Asternweg;
+;;Auf dem Halmburger;
+;;Auf dem Junkheim;
+;;Auf dem Rück;
+;;Auf dem Schaumrück;
+;;Auf dem Wehr;
+;;Auf dem Wulf;
+;;Auf dem Wüsten;
+;Q1517066;Auf den Lahnbergen;-
+;;Auf der Appeling;
+;;Auf der Beute;
+;;Auf der Ebert;
+;;Auf der Grube;
+;;Auf der Haide;
+;;Auf der Höhe;
+;;Auf der Hube;
+;;Auf der Jöch;
+;;Auf der Kahn;
+;;Auf der Kanzel;
+;;Auf der Seite;
+;;Auf der Weide;
+;;Auf'm Gebrande;
+;Q76520;August-Bebel‑Platz;m
+;Q76520;August‑Bebel‑Straße;m
+;Q106915212;August‑Rohde‑Straße;m
+;Q29075;Augustinergasse;""+""
+;Q3400050;Aulgasse;""+""
+;;Bachrücken;
+;;Bachstraße;
+;;Bachweg;
+;;Bahnhaus;
+;;Bahnhofstraße;
+;Q214752;Baldingerstraße;m
+;Q878161;Bantzerstraße;m
+;Q746833;Barfüßerstraße;""+""
+;Q746833;Barfüßertor;""+""
+;;Bauerbacher Straße;
+;;Baumgarten;
+;Q255;Beethovenstraße;m
+;;Behringweg;
+;;Bei der Hirsenmühle;
+;Q29464433;Bei St. Jost;-
+;;Beltershäuser Straße;
+;;Bergblick;
+;;Bergelchen;
+;;Bergerweg;
+;;Berghofweg;
+;;Bergring;
+;;Bergstraße;
+;;Bergwiesenweg;
+;;Berliner Straße;
+;;Bettenweg;
+;;Bettewiese;
+;-;Biegenstraße;-
+;;Bienenweg;
+;;Birkenstraße;
+;;Birkenweg;
+;;Birnenstraße;
+;Q8442;Bismarckstraße;m
+;;Blaue Hofstadt;
+;;Blitzweg;
+;;Blumengarten;
+;;Blumenstraße;
+;;Blütenstraße;
+;;Bodenfeldstraße;
+;;Borngasse;
+;;Bortshäuser Straße;
+;;Brandenburger Straße;
+;;Braugasse;
+;;Breslauer Straße;
+;;Bruchwiesenweg;
+;;Brücker Weg;
+;Q2793;Brüder‑Grimm‑Straße;""+""
+;;Bruderweg;
+;;Brunnenstraße;
+;;Bubenmühle;
+;;Buchenrotsweg;
+;;Buchenweg;
+;;Bühl;
+;;Bühlacker;
+;Q71031;Bunsenstraße;m
+;-;Bunter Kitzel;-
+;;Burgblick;
+;;Bürgelner Straße;
+;;Burgwaldstraße;
+;;Burgweg;
+;;Busring;
+;;Calderner Straße;
+;Q37577;Calvinstraße;m
+;;Cappeler Gleiche;
+;;Cappeler Markt;
+;;Cappeler Straße;
+;Q214541;Carl-Strehl‑Straße;m
+;Q76358;Carl-von-Ossietzky-Straße;m
+;Q2795;Chemnitzer Straße;-
+;Q1078037;Christa-Czempiel-Platz;w
+;;Christopherusstraße;
+;Q1091979;Cilly-Schäfer-Straße;w
+;Q57235;Clemens‑Brentano‑Straße;m
+;;Cölber Straße;
+;Q1532689;Conradistraße;m
+;;Cyriaxstraße;
+;Q1157367;Dagobertshäuser Straße;-
+;;Dahlienstraße;
+;Q89439;Damaschkeweg;m
+;;Dammühlenstraße;
+;;Dammweg;
+;;Danziger Straße;
+;Q48189;Deutschhausstraße;""+""
+;;Dietersdorfer Weg;
+;Q76326;Dietrich-Bonhoeffer-Straße;m
+;;Dilschhäuser Straße;
+;-;Dörfflerstraße;m
+;;Dorfmitte;
+;;Dorfwiesenweg;
+;;Dornbusch;
+;;Dorngasse;
+;;Dreihäusergasse;
+;;Dresdener Straße;
+;;Drosselstraße;
+;;Dükerweg;
+;;Dünsbergstraße;
+;Q5580;Dürerstraße;m
+;;Ebsdorfer Straße;
+;Q76749;Edith-Stein-Straße;w
+;;Egerländer Weg;
+;Q77204;Eichendorffstraße;m
+;;Eichgarten;
+;;Eichweg;
+;;Eisenacher Weg;
+;;Eisenstraße;
+;Q215424;Elisabeth-Blochmann-Platz;w
+;Q70670;Elisabeth-von-Thadden-Straße;w
+;Q159862;Elisabethstraße;w
+;;Elnhäuser Straße;
+;Q469673;Elsa‑Brandström‑Straße;w
+;Q23951788;Elsenhöhe;w
+;Q1273572;Emil‑Mannkopff‑Straße;m
+;Q76425;Emil‑von‑Behring‑Straße;m
+;;Enge Gasse;-
+;;Enserweg;
+;;Erbsengasse;
+;;Erfurter Straße;
+;;Erlenring;
+;-;Ernst‑Giller‑Straße;m
+;Q897275;Ernst‑Lemmer‑Straße;m
+;Q57351;Ernst‑Moritz‑Arndt‑Straße;m
+;Q213561;Ernst‑Reuter‑Straße;m
+;;Eschenweg;
+;;Eulenkopfstraße;
+;;Europabadstraße;
+;;Ewiges Tal;
+;;Fähnrichsweg;
+;;Falkenweg;
+;;Fasanenweg;
+;;Feldbergstraße;
+;;Feldweg;
+;;Feuerdornweg;
+;;Fichtenweg;
+;;Fichtestraße;
+;;Finkenstraße;
+;;Firmaneiplatz;
+;;Firmaneistraße;
+;;Fischteich;
+;;Flachspfuhl;
+;;Fliederstraße;
+;;Fohlengarten;
+;Q76632;Fontanestraße;m
+;;Försterweg;
+;;Forsthausstraße;
+;Q1794;Frankfurter Straße;-
+;Q15429217;Franz‑Leonhard‑Weg;m
+;Q11698836;Franz‑Tuczek‑Weg;m
+;;Frauenbergstraße;
+;Q213542;Freiherr‑vom‑Stein‑Straße;m
+;;Friedensplatz;
+;;Friedhofstraße;
+;;Friedhofsweg;
+;Q2646;Friedrich‑Ebert‑Straße;m
+;Q76679;Friedrich‑Fröbel‑Straße;m
+;Q76811;Friedrich‑Naumann‑Straße;m
+;Q1462240;Friedrich‑Siebert‑Weg;m
+;Q58600;Friedrichsplatz;m
+;Q58600;Friedrichstraße;m
+;;Fuchspaß;
+;;Fünfhausen;
+;;Furthstraße;
+;;Gabelsbergerstraße;
+;;Galgenweg;
+;;Gänsegässchen;
+;;Gartenweg;
+;;Gasseweg;
+;;Gebrüderstraße;
+;;Gehrensgäßchen;
+;Q154014;Georg-Büchner-Weg;m
+;Q77269;Georg-Elser-Straße;m
+;Q99842;Georg-Voigt-Straße;m
+;;Gerbergäßchen;
+;Q73924;Gerhard-Jahn-Platz;m
+;Q43523;Gerhart-Hauptmann-Straße;m
+;;Gerichtsweg;
+;"Q566212;Q76972;Q57820";Geschwister‑Scholl‑Straße;""+""
+;;Gießener Straße;
+;;Ginseldorfer Weg;
+;;Ginsterweg;
+;;Gisonenweg;
+;Q1527643;Gisselberger Straße;-
+;;Gladenbacher Weg;
+;;Glammbergweg;
+;Q5879;Goethestraße;m
+;;Goldberg;
+;;Goldbergstraße;
+;;Görlitzer Weg;
+;;Görzhäuser Hof;
+;;Görzhäuser Weg;
+;;Goßfeldener Allee;
+;;Goßfeldener Straße;
+;Q122370;Gottfried‑Keller‑Straße;m
+;;Götzenhainweg;
+;;Grabenstraße;
+;Q21209;Graf‑von‑Stauffenberg‑Straße;m
+;;Greifswalder Weg;
+;;Große Wiese;
+;;Großseelheimer Straße;
+;;Gründeberg;
+;;Grüner Weg;
+;;Grünschiebel;
+;;Gunzelinweg;
+;Q58811;Gustav‑Freytag‑Straße;m
+;Q8958;Gutenbergstraße;m
+;-;Habichtstalgasse;-
+;;Hachborner Straße;
+;;Haddamshäuser Straße;
+;;Hahnbergstraße;
+;-;Hahnengasse;-
+;;Hahnerheide;
+;Q1510380;Hainweg;-
+;;Hallenberger Straße;
+;;Halmburger Weg;
+;;Hangstraße;
+;Q60025;Hannah-Arendt-Straße;w
+;Q106165;Hanno-Drechsler-Platz;m
+;Q99052;Hans‑Meerwein‑Straße;m
+;Q19543;Hans‑Sachs‑Straße;m
+;;Hansenhäuserweg;
+;;Harthweg;
+;;Haselhecke;
+;;Hasenberg;
+;;Haspelgäßchen;
+;-;Haspelstraße;-
+;;Hattersbach;
+;;Hebronberg;
+;Q1593358;Hedwig-Jahnow-Straße;w
+;;Heide;
+;Q44403;Heinrich‑Heine‑Straße;m
+;Q153643;Heinrich‑Schütz‑Straße;m
+;;Heljehaus;
+;;Helwigswiese;
+;;Herbenerstraße;
+;Q1610623;Hermann-Bauer-Weg;m
+;Q76709;Hermann-Cohen-Weg;m
+;Q1611633;Hermann-Jacobsohn-Weg;m
+;Q1613326;Hermann‑von‑Vultee‑Weg;m
+;;Hermershäuser Straße;
+;Q77602;Herrmannstraße;m
+;;Hetzelweg;
+;;Heugäßchen;
+;;Heumarkt;
+;Q92528;Heusingerstraße;m
+;Q215201;Hildegard-Hamm-Brücher-Platz;w
+;;Himbornstraße;
+;;Hinterfeld;
+;;Hintergasse;
+;-;Hirschberg;-
+;;Hirtenberg;
+;;Hirtengarten;
+;-;Hofstatt;-
+;;Hofweide;
+;;Hohe Leuchte;
+;;Höhenweg;
+;;Höhlsgasse;
+;;Hohlweg;
+;Q75889;Hölderlinstraße;m
+;;Holderstrauch;
+;;Holunderweg;
+;;Holzgasse;
+;;Hopfengarten;
+;;Hoschecke;
+;;Hospitalwaldstraße;
+;;Hubgraben;
+;;Huteweg;
+;;Im Alten Wasser;
+;;Im Boden;
+;;Im Calderschen Grund;
+;;Im Dorfe;
+;;Im Feldchen;
+;;Im Gang;
+;;Im Gefälle;
+;;Im Graben;
+;;Im Grund;
+;;Im Grunel;
+;;Im Grünen Tal;
+;;Im Hain;
+;;Im Hainbach;
+;;Im Helling;
+;;Im Hirtental;
+;;Im Köhlersgrund;
+;;Im Lichtenholz;
+;;Im Loch;
+;;Im Loh;
+;;Im Paradies;
+;;Im Rudert;
+;;Im Schwarzenborn;
+;;Im Sohlgraben;
+;;Im Sonnenwinkel;
+;;Im Stiftsfeld;
+;;Im Unterdorf;
+;;Im Wiesengrund;
+;;Im Winkel;
+;;In der Badestube;
+;;In der Gemoll;
+;;In der Görtzbach;
+;;In der Hohl;
+;;In der Knutzbach;
+;;In der Struth;
+;;In der Wann;
+;;Industriestraße;
+;;Jägerstraße;
+;Q362739;Jahnstraße;m
+;Q64531;Jakob-Kaiser-Straße;m
+;;Jakobsgasse;
+;;Jenaer Weg;
+;-;Johann‑Konrad‑Schäfer‑Straße;m
+;Q15491153;Johanna-Wyttenbach-Weg;w
+;-;Johannes‑Acker‑Straße;m
+;-;Johannes‑Erb‑Weg;m
+;Q1698072;Johannes‑Müller‑Straße;m
+;;Johannesgasse;
+;-;Kaffweg;-
+;;Kämpfrasen;
+;Q9312;Kantstraße;m
+;-;Kappesgasse;-
+;Q131603290;Karl‑Doerbecker‑Straße;m
+;Q1455473;Karl‑Justi‑Straße;m
+;-;Karl‑Müller‑Straße;m
+;Q60060;Karl‑von‑Frisch‑Straße;m
+;;Karlsbader Weg;
+;;Karmelitergasse;""+""
+;;Kastanienstraße;
+;Q137723639;Katharina-Eitel-Weg;w
+;;Kellerwaldstraße;
+;Q61195;Kerschensteinerstraße;m
+;Q626805;Kettelerstraße;m
+;-;Ketzerbach;-
+;;Kiefernweg;
+;;Kiliansgasse;
+;;Kirchgasse;
+;;Kirchgraben;
+;;Kirchspitze;
+;;Kirchstraße;
+;;Kirchweg;
+;;Kleine Ortenberggasse;
+;Q28494;Kleistweg;m
+;;Köhlersgrundgasse;
+;;Kohlwaldweg;
+;Q60619;Kolpingstraße;m
+;;Königsberger Straße;
+;;Königsberger Weg;
+;;Königstraße;
+;-;Konrad-Baier-Weg;m
+;-;Konrad‑Laucht‑Weg;m
+;;Kornbergweg;
+;;Körnerstraße;
+;;Kornmarkt;
+;;Krähenweg;
+;;Krebsgasse;
+;;Kreutzacker;
+;;Kreuzweg;
+;-;Krummbogen;-
+;Q736039;Kugelgasse;""+""
+;;Kuhnsgasse;
+;;Lahnbergstraße;
+;;Lahnblick;
+;;Lahnstraße;
+;-;Lahntor;-
+;Q169319;Landgraf‑Philipp‑Straße;m
+;;Landgrafenweg;
+;;Langewiesenweg;
+;-;Langgasse;-
+;;Lärchenweg;
+;-;Leckergäßchen;-
+;;Leipziger Straße;
+;;Leiserweg;
+;Q84280;Lenaustraße;m
+;Q1819748;Leopold‑Lucas‑Straße;m
+;Q34628;Lessingstraße;m
+;;Lichtweg;
+;Q16571;Liebigstraße;m
+;;Lilienstraße;
+;;Lindenplatz;
+;;Lindenweg;
+;-;Lingelgasse;-
+;;Lintzingsweg;
+;;Lippersbach;
+;;Löchels Gäßchen;
+;;Lohgarten;
+;;Lohgasse;
+;;Lönsweg;
+;Q131695604;Louisa-Biland-Platz;w
+;Q1874222;Ludwig-Bickell‑Treppe;m
+;Q1874624;Ludwig‑Juppe‑Weg;m
+;Q1876601;Luise-Berthold-Straße;w
+;-;Lutherischer Kirchhof;-
+;Q9554;Lutherstraße;m
+;;Magdeburger Straße;
+;;Mainzer Gasse;-
+;-;Mansaley-Kobba-Weg;m
+;;Marbacher Weg;
+;;Marburger Straße;
+;;Mariborer Straße;
+;Q29167866;Marie‑Louise‑Hensel‑Weg;w
+;;Markt;
+;;Marktgasse;
+;;Markthöhe;
+;;Mauerstraße;
+;;Mecklenburger Straße;
+;;Meisenweg;
+;;Mengelsgasse;
+;;Metzgergasse;
+;;Michelbacher Straße;
+;;Minksweg;
+;;Mittelhausen;
+;;Mittelweg;
+;;Moischter Straße;
+;;Molkereistraße;
+;;Mönchwaldstraße;
+;Q63699;Mörikestraße;m
+;Q254;Mozartstraße;m
+;;Mühlbachweg;
+;;Mühlenbergstraße;
+;;Mühltreppe;
+;;Mühlweg;
+;;Muldenweg;
+;;Nelkenweg;
+;;Nesselberg;
+;;Nesselbrunner Straße;
+;;Neue Kasseler Straße;
+;;Neue Straße;
+;;Neuhöfe;
+;;Neustadt;
+;;Nibelungenweg;
+;;Niederweimarer Straße;
+;;Nikolaistraße;""+""
+;;Nonnengasse;
+;;Nonnhäuser Weg;
+;;Oberdorf;
+;;Oberer Eichweg;
+;;Oberer Rotenberg;
+;;Oberfeld;
+;;Oberweg;
+;;Ockershäuser Allee;
+;;Ockershäuser Schulgasse;
+;;Ockershäuser Straße;
+;;Odenwaldstraße;
+;;Ohmweg;
+;;Ortenbergplatz;-
+;Q77173;Otto-Loewi-Straße;m
+;;Pappelweg;
+;Q41223;Pasternakstraße;m
+;Q57089;Paul‑Ehrlich‑Weg;m
+;Q76504;Paul‑Natorp‑Straße;m
+;;Pernsdörfer;
+;Q105428;Pestalozzistraße;m
+;;Pfaffenberg;
+;;Pfarracker;
+;;Pfingstweide;
+;;Pflanzgarten;
+;;Pilgrimstein;
+;;Plantage;
+;Q153364;Platz der Weißen Rose;""+""
+;;Platzgasse;
+;;Poitiers-Straße;
+;;Pommernweg;
+;;Posener Straße;
+;;Potsdamer Straße;
+;;Quellweg;
+;;Rabenwiese;
+;Q123334;Radestraße;m
+;;Raiffeisenstraße;
+;;Rehbocksecke;
+;;Reinhardswaldstraße;
+;;Reitgasse;
+;;Renthof;
+;;Rentmeisterstraße;
+;Q213561;Reutergasse;m
+;Q105944;Richard‑Hamann‑Weg;m
+;Q76483;Rilkeweg;m
+;;Rimbergstraße;
+;;Ringstraße;
+;;Rinnacker;
+;;Rinnweg;
+;;Risberg;
+;;Ritterstraße;
+;Q37193;Robert‑Koch‑Straße;m
+;;Rodsweg;
+;;Rollwiesenweg;
+;;Ronhäuser Straße;
+;;Rosenbusch;
+;;Rosengarten;
+;;Rosenstraße;
+;;Roßdorfer Straße;
+;;Roßgarten;
+;;Rostocker Weg;
+;;Rotdornweg;
+;;Rote Hohl;
+;;Rotenberg;
+;;Roter Graben;
+;;Roter Hof;
+;;Rübengasse;
+;;Rübenstein;
+;Q60644;Rückertweg;m
+;Q70890;Rudolf-Breitscheid-Straße;m
+;Q76327;Rudolf‑Bultmann‑Straße;m
+;Q15449141;Rudolf‑Klapp‑Straße;m
+;Q5535640;Rudolphsplatz;m
+;;Sachsenring;
+;;Salegrund;
+;;Salzköppel;
+;;Sandweg;
+;Q298845;Sankt‑Florian‑Straße;m
+;Q133704;Sankt‑Martin‑Straße;m
+;;Sauersgäßchen;
+;Q76892;Savignystraße;m
+;;Schenkendorfweg;
+;;Scheppe Gewissegasse;
+;;Schieferweg;
+;Q22670;Schillerstraße;m
+;;Schlehdornweg;
+;;Schloß;
+;;Schlosserstraße;
+;;Schloßsteig;
+;;Schloßtreppe;
+;;Schmalwiesenweg;
+;;Schmiedeacker;
+;;Schneidersberg;
+;;Schönbacher Weg;
+;;Schröcker Straße;
+;;Schubbelackerweg;
+;Q7312;Schubertstraße;m
+;Q74745;Schückingstraße;m
+;;Schuhmarkt;
+;;Schulstraße;
+;;Schützenstraße;
+;;Schwalbenweg;
+;-;Schwanallee;m
+;;Schwarzenbornweg;
+;;Seelheimer Weg;
+;;Sfaxer Straße;
+;;Siedlerweg;
+;Q58577;Siemensstraße;m
+;;Simmesackerstraße;
+;;Simmestraße;
+;;Software-Center;
+;;Sommerbadstraße;
+;;Sommerstraße;
+;;Sonnenblickallee;
+;;Sonnenhang;
+;;Sonnenweg;
+;;Sonnhalde;
+;Q70840;Sophie‑von‑Brabant‑Weg;w
+;;Sperberweg;
+;Q1716889;Spiegelslust;m
+;Q1716889;Spiegelslustweg;m
+;;Stadtwaldstraße;
+;;Steinacker;
+;;Steinborn;
+;;Steinfeldstraße;
+;;Steingasse;
+;;Steinküppel;
+;;Steinmühlenweg;
+;;Steinnorr;
+;;Steinrücken;
+;;Steinweg;
+;-;Stephan‑Niderehe‑Straße;m
+;;Sterzhäuser Straße;
+;;Stettiner Straße;
+;;Stiefelgasse;
+;;Stiftstraße;
+;;Stöckelsbergweg;
+;;Stocksgrund;
+;Q103955;Stresemannstraße;m
+;;Stümpelstal;
+;;Sudetenstraße;
+;Q65600;Sybelstraße;m
+;Q214620;Sylvester‑Jordan‑Straße;m
+;-;Tada-Urata-Platz;w
+;;Tannenweg;
+;;Taubenweg;
+;-;Tawara-Aschoff-Knoten;w
+;;Am Fernheizwerk;-
+;;Teichweg;
+;;Teichwiesengraben;
+;;Teichwiesenweg;
+;Q94880435;Temmlerstraße;m
+;;Thüringer Straße;
+;;Tilsiter Straße;
+;Q1320168;Tischbeinweg;m
+;Q21032817;Tom-Mutters-Straße;m
+;;Tonberg;
+;;Treisbachweg;
+;Q7154076;Trojedamm;m
+;;Tulpenstraße;
+;Q975596;Ubbelohdestraße;m
+;;Über dem Grund;
+;;Über der Kirch;
+;;Uferstraße;
+;;Uhlandstraße;
+;;Ulmenweg;
+;;Umgehungsstraße;
+;;Universitätsstraße;
+;;Unter dem Gedankenspiel;
+;;Unter den Eichen;
+;;Unter den Steinbrüchen;
+;;Unterer Eichweg;
+;;Unterer Ohmweg;
+;;Untergasse;
+;;Vinzentinerinnenweg;
+;;Violastraße;
+;;Vogelsbergstraße;
+;Q164699;von‑Harnack‑Straße;m
+;-;von‑Keitz‑Straße;m
+;;Wacholderberg;
+;;Waidmannsweg;
+;;Wäldchesborn;
+;;Waldeck;
+;;Waldweg;
+;;Wannkopfstraße;
+;;Wartburgstraße;
+;;Wehracker;
+;;Wehrdaer Straße;
+;;Wehrdaer Weg;
+;;Wehrshäuser Straße;
+;;Weidenbornstraße;
+;;Weidenbrunkel;
+;;Weidenhäuser Straße;
+;;Gerbergäßchen;
+;;Weidenstamm;
+;;Weimarer Weg;
+;;Weinbergstraße;
+;;Weinküppel;
+;Q139172266;Weintrautstraße;m
+;;Weißdornweg;
+;;Weitershäuser Straße;
+;;Wendelgasse;
+;Q64634;Werderstraße;m
+;-;Werner-Karry-Weg;m
+;;Westerwaldstraße;
+;;Wettergasse;
+;;Wickegarten;
+;;Wickelborn;
+;;Wieselacker;
+;;Wiesenaue;
+;;Wiesentalweg;
+;;Wiesenweg;
+;Q111325;Wilhelm‑Busch‑Straße;m
+;Q60647;Wilhelm‑Raabe‑Weg;m
+;Q62444;Wilhelm‑Röpke‑Straße;m
+;Q87211;Wilhelm‑Roser‑Straße;m
+;Q150652;Wilhelmsplatz;m
+;Q150652;Wilhelmstraße;m
+;-;Willi-Weitzel-Weg;m
+;;Willy-Sage-Platz;m
+;-;Willy‑Mock‑Straße;m
+;;Wittelsberger Straße;
+;;Wittenberger Weg;
+;Q76510;Wolffstraße;m
+;;Wolfshäuser Straße;
+;;Zelterstraße;
+;Q75780;Zeppelinstraße;m
+;;Ziegelstraße;
+;;Zimmermannstraße;
+;;Zimmerplatzweg;
+;;Zu den Sandbeeten;
+;;Zückenberg;
+;;Zum Dankersbühl;
+;;Zum Eisenberg;
+;;Zum Elisabethbrunnen;
+;;Zum Elnhäuser Grund;
+;;Zum Heiligenberg;
+;;Zum Himmrich;
+;;Zum Hirtzborn;
+;;Zum Hohen Küppel;
+;;Zum Kalkberg;
+;;Zum Lahnberg;
+;;Zum Marienhäuschen;
+;;Zum Neuen Hieb;
+;;Zum Pfaffengrund;
+;;Zum Rosenmorgen;
+;;Zum Runden Baum;
+;;Zum Steinbruch;
+;;Zum Stempel;
+;;Zum Waldwinkel;
+;;Zum Wallgraben;
+;;Zur Aue;
+;;Zur Bergwiese;
+;;Zur Birke;
+;;Zur Burgruine;
+;;Zur Fasanerie;
+;;Zur Feldscheune;
+;;Zur Hainbuche;
+;;Zur Hainseite;
+;;Zur Hege;
+;;Zur Kalkkaute;
+;;Zur Kaute;
+;;Zur Klause;
+;;Zur Krahna;
+;;Zur Lahnaue;
+;;Zur Molle;
+;;Zur Wann;
+;;Zur Wehrholzseite;
+;;Zur Weinstraße;
+;;Zwetschenweg;
+;;Zwischenhausen;
